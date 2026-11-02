@@ -1,0 +1,8 @@
+{
+  "name": "PresencePulse Teacher Attendance Portal",
+  "description": "Real-time teacher attendance management with dynamic QR code generation, live Firestore check-in tracking, and date-range filterable visual attendance reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
